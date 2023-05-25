@@ -1,0 +1,27 @@
+body {
+  background: grey;
+  margin-left: 30px;
+}
+
+h1 {
+  color: red;
+  font-size: 70px;
+}
+
+p {
+  color: purple;
+  font-size: 40px;
+}
+
+p a {
+  color: pink;
+  text-decoration: none;
+}
+
+#boba {
+  color: green;
+}
+
+.taco {
+  color: yellow;
+}
